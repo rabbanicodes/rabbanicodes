@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rabbanicodes
 - 👀 I’m interested in learning and coding new things.
 - 🌱 I’m currently learning devops and machine learning.
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
