@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @rabbanicodes
-- 👀 I’m interested in learning and coding new things.
-- 🌱 I’m currently learning devops and machine learning.
+# Hi there 👋, I'm Rabbani
+
+## About Me
+I am a Student passionate about **AI, Machine Learning, Backend Development, and Data Science**. I love exploring new technologies, building projects, and learning continuously.  
+
+- 🎓 Pursuing Computer Science at University of People  
+- 💻 Programming Languages & Tools: Python, Node.js, Firebase, Supabase, AWS  
+- 🤖 Interests: Artificial Intelligence, Neural Networks, NLP, Deep Learning, EDA Tools (KiCad, Altium)  
+
+---
+
+## 🛠 Skills
+
+### Programming & Development
+- Python | Node.js | JavaScript | Data Structures & Algorithms | Php
+- Backend: Firebase, Supabase, AWS , Linux , Mysql
+- AI & ML: Machine Learning, Deep Learning, Neural Networks, NLP
+
+### Tools & Technologies
+- Git | GitHub | Docker | Jupyter Notebook
+- EDA Tools: KiCad, Altium
+- Databases: MySQL, MongoDB
+
+---
 
 
+## 🌱 Currently Learning
+- Large Language Models (LLMs) and AI APIs  
+- Advanced Backend Architectures  
+- Full-stack Web Development  
 
-<!---
-rabbanicodes/rabbanicodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 How to reach me
+- Email: rabbaani@gmail.com 
+
+---
+
