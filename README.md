@@ -5,7 +5,7 @@ I am a Student passionate about **AI, Machine Learning, Backend Development, and
 
 - 🎓 Pursuing Computer Science at University of People  
 - 💻 Programming Languages & Tools: Python, Node.js, Firebase, Supabase, AWS  
-- 🤖 Interests: Artificial Intelligence, Neural Networks, NLP, Deep Learning, EDA Tools (KiCad, Altium)  
+- 🤖 Interests: Artificial Intelligence, Neural Networks, NLP, Deep Learning
 
 ---
 
@@ -18,7 +18,6 @@ I am a Student passionate about **AI, Machine Learning, Backend Development, and
 
 ### Tools & Technologies
 - Git | GitHub | Docker | Jupyter Notebook
-- EDA Tools: KiCad, Altium
 - Databases: MySQL, MongoDB
 
 ---
